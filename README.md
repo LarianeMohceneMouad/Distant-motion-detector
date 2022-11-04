@@ -17,5 +17,9 @@ Install ``opencv-python`` and ``imutils``
 ## Usage : 
 
 > staring the alarm : press ``t`` to start the alarm
+
+
 > pausing the alarm : press ``t`` again to pause the alarm
+
+
 > quiting : press ``q`` to quit the alarm
