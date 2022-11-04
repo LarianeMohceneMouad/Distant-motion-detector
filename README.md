@@ -6,9 +6,9 @@ Install ``opencv-python`` and ``imutils``
 
 ## How to run it:
 - 1. Create a twlio account and get the following information:
-- account_sid
-- auth_token
-- twilio_number
+  - account_sid
+  - auth_token
+  - twilio_number
 
 - 2. set the twilio_number
 - 3. copy the previous information in their champs in the ``keys.py`` file 
