@@ -24,4 +24,4 @@ Install ``opencv-python`` and ``imutils``
 
 > quiting : press ``q`` to quit the alarm
 
-Credits : with the help of (NeuralNine)[https://github.com/NeuralNine]
+Credits : with the help of [NeuralNine](https://github.com/NeuralNine)
